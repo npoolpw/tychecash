@@ -1,8 +1,8 @@
-var api = "http://apihost.com:port";
+var api = "http://tyc.npool.pw:10020";
 
-var poolHost = "apihost.com";
+var poolHost = "tyc.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/coin";
+var blockExplorer = "http://blockexplorer.pw/tyc";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
@@ -15,5 +15,8 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"],
+        ["tychecash.npool.pw", "http://ca.tychecash.npool.pw:10020"],
+        ["labbinarymining.com", "http://tyc-us.labbinarymining.com:8317"],
+        ["tyc.revientaicos.com", "http://tyc.revientaicos.com:8118"],
+        ["tyc.dreampool.info", "https://tyc.dreampool.info/api"]
 ];
