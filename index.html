@@ -255,6 +255,10 @@
     function updateIndex(){
         //updateText('coinName', lastStats.config.coin);
         var title = lastStats.config.coin;
+	if(title.indexOf('-')>-1)
+        {
+            title = title.substr(0,title.indexOf('-'));
+        }
         $("title").text(title.charAt(0).toUpperCase() + title.slice(1) + " Mining Pool");
         updateText('poolVersion', lastStats.config.version);
     }
