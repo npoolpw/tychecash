@@ -1,6 +1,6 @@
-var api = "http://tyc.npool.pw:10020";
+var api = "http://ca.npool.pw:10020";
 
-var poolHost = "tyc.npool.pw";
+var poolHost = "ca.npool.pw";
 
 var blockExplorer = "http://blockexplorer.pw/tyc";
 
@@ -15,7 +15,7 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["tychecash.npool.pw", "http://ca.tychecash.npool.pw:10020"],
+        ["npool.pw/tychecash", "http://ca.npool.pw:10020"],
         ["labbinarymining.com", "http://tyc-us.labbinarymining.com:8317"],
         ["tyc.revientaicos.com", "http://tyc.revientaicos.com:8118"],
         ["tychecash.net", "http://tychecash.net:8113"]
