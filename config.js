@@ -18,7 +18,7 @@ var networkStat = [
         ["npool.pw/tychecash", "http://ca.npool.pw:10020"],
         ["labbinarymining.com", "http://tyc-us.labbinarymining.com:8317"],
         ["tyc.revientaicos.com", "http://tyc.revientaicos.com:8118"],
-        ["tychecash.net", "http://tychecash.net:8113"],
+        ["tychecash.net", "http://tychecash.net:8117"],
         ["tychecash.dru.wtf", "http://tychecash.dru.wtf:8113"],
         ["eat-sleep-mine.com/tyche","http://us.eat-sleep-mine.com:18003"]
 ];
